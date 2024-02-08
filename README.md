@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shifan98
+- 👋 Hi, I’m @dracus
 - 👀 I’m interested in Devops and DATA Science.
 - 🌱 I’m currently learning DEVOPS Engineering.
 - 💞️ I’m looking to collaborate on GIT.
